@@ -4,3 +4,7 @@ export function calculatePaintCoverage(
 ): number {
   return width * height
 }
+
+export function estimatePaintCans(area: number, coveragePerCan: number): number {
+  return Math.ceil(area / coveragePerCan)
+}
