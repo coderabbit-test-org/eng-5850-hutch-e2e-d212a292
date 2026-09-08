@@ -1,3 +1,3 @@
 # Pending validation
 
-Keep this isolated documentation change pending while its required validation runs.
+Required validation must complete before this isolated documentation change can merge.
